@@ -14,7 +14,7 @@ I am a software engineer with my Bachelors in Computer Science from CUNY Hunter 
 
 <h1>Contact</h1>
 
-[I'm an inline-style link](https://www.google.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-uddin-4a8105170/)
 
 -----
 
