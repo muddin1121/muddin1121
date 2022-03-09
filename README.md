@@ -8,7 +8,7 @@
 
 -----
 
-I am a software engineer woth my Bachelors in Computer Science from CUNY Hunter College. I love the aspect of coding and how just a bunch of 0's and 1's have created revolutionary technological advancements in the world. I am excited to see how far we can go in the world coding our way to a utopia! 🔭
+I am a software engineer with my Bachelors in Computer Science from CUNY Hunter College. I love the aspect of coding and how just a bunch of 0's and 1's have created revolutionary technological advancements in the world. I am excited to see how far we can go in the world coding our way to a utopia! 🔭
 
 
 <!--
