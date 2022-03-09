@@ -1,5 +1,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muddin1121&show_icons=true&theme=codeSTACKr)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muddin1121&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
